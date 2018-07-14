@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Hirokazu Iida</title>
+    <title>Homes on Hirokazu Iida | 飯田 啓量</title>
     <link>https://iidango.github.io/home/</link>
-    <description>Recent content in Homes on Hirokazu Iida</description>
+    <description>Recent content in Homes on Hirokazu Iida | 飯田 啓量</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; hirokazu iida 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://iidango.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -31,11 +31,11 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://iidango.github.io/home/publications/</link>
+      <title>Publications</title>
+      <link>https://iidango.github.io/home/_publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://iidango.github.io/home/publications/</guid>
+      <guid>https://iidango.github.io/home/_publications/</guid>
       <description></description>
     </item>
     
@@ -45,7 +45,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://iidango.github.io/home/news/</guid>
-      <description>under construction&amp;hellip;</description>
+      <description>2018.7.14 under construction&amp;hellip;</description>
     </item>
     
     <item>
@@ -73,6 +73,15 @@
       
       <guid>https://iidango.github.io/home/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://iidango.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://iidango.github.io/home/publications/</guid>
+      <description>international conference H. Iida, K. Hiroi, K. Kaji, N. Kawaguchi: A Proposal of IndoorGML Extended Data Model for Pedestrian-Oriented Voice Navigation System, Proceedings of the Seventh ACM SIGSPATIAL International Workshop on Indoor Spatial Awareness(ISA’ 15), 2015 K. Kaji, K. Kanagu, K. Murao, N. Nishio, K. Urano, H. Iida, N. Kawaguchi: Multi-algorithm on-site evaluation system for PDR challenge,</description>
     </item>
     
     <item>
